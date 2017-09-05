@@ -1,3 +1,4 @@
 [submodule "fresh-project"]
 	path = fresh-project
 	url = git@github.com:illeandrei/fresh-project.git
+	branch = test-submodules-again
